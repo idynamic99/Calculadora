@@ -1,2 +1,2 @@
 # Calculadora
-[Link do projeto:](https://idynamic99.github.io/Calculadora/)
+[Link do projeto - Calculadora](https://idynamic99.github.io/Calculadora/)
